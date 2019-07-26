@@ -1,0 +1,3 @@
+products = {}
+while true:
+    
